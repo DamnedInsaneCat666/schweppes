@@ -1,0 +1,48 @@
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.Form1.resources
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.exe
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.pdb
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.Form2.resources
+C:\Users\Станислав\Desktop\Курсовая\Cafe\Cafe\obj\Debug\Cafe.Form3.resources
+C:\Users\User\Desktop\Cafe\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\User\Desktop\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\User\Desktop\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.Form1.resources
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.Form2.resources
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.Form3.resources
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.exe
+C:\Users\User\Desktop\Cafe\Cafe\obj\Debug\Cafe.pdb
+C:\Users\Станислав\Desktop\Cafe\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\Станислав\Desktop\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\Станислав\Desktop\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.Form1.resources
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.Form2.resources
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.Form3.resources
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.exe
+C:\Users\Станислав\Desktop\Cafe\Cafe\obj\Debug\Cafe.pdb
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.Form1.resources
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.Form2.resources
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.Form3.resources
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.exe
+C:\Users\Шестаков\Desktop\Курсовая — облако\Рабочая деревня\Cafe\Cafe\obj\Debug\Cafe.pdb
