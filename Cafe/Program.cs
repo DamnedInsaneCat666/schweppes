@@ -24,6 +24,7 @@ namespace Cafe
 
         }
 
+        //something
         public static Dictionary<string,int> OrderDict = new Dictionary<string, int>();
         public static Dictionary<string, int> PriseDict = new Dictionary<string, int>
         {
